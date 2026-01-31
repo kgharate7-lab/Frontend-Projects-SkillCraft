@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Futuristic Timer App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="app-header">
+    <h1>Futuristic Timer</h1>
+    <p>Made by <span>Kunal Gharate</span></p>
+</header>
+
+<div class="container">
+    <div id="display">00:00:00</div>
+
+    <div class="modes">
+        <button onclick="setMode('stopwatch')">Stopwatch</button>
+        <button onclick="setMode('pomodoro')">Pomodoro</button>
+        <button onclick="setMode('short')">Short Break</button>
+        <button onclick="setMode('long')">Long Break</button>
+    </div>
+
+    <div class="buttons">
+        <button onclick="start()">Start</button>
+        <button onclick="pause()">Pause</button>
+        <button onclick="reset()">Reset</button>
+        <button onclick="lap()">Lap</button>
+    </div>
+
+    <ul id="laps"></ul>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
