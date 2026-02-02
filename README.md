@@ -1,109 +1,181 @@
-# 🚀 Frontend Projects – SkillCraft Technology
+.
 
-This repository contains multiple **frontend web development projects** built using **HTML, CSS, and JavaScript** as part of tasks and practice for SkillCraft Technology.
+🚀 Frontend Projects – SkillCraft Technology
 
-Each project focuses on core web development concepts like UI design, responsiveness, DOM manipulation, and JavaScript logic.
+This repository contains multiple frontend web development projects built using HTML, CSS, and JavaScript as part of tasks and practice for SkillCraft Technology.
 
----
+Each project focuses on improving core web development skills such as UI design, responsiveness, DOM manipulation, and JavaScript logic.
 
-## 📂 Projects Included
+📌 Features
 
-### 🎮 1. Tic Tac Toe Game
-A simple and interactive Tic Tac Toe game with a clean UI.
+Multiple mini frontend projects in one repository
 
-**Features:**
-- Two-player mode (X vs O)
-- Separate score tracking for Player X and Player O
-- Win, draw detection
-- Restart game and reset score options
-- User-friendly interface
+Clean and responsive UI designs
 
-**Technologies Used:**  
-HTML | CSS | JavaScript
+JavaScript-based logic implementation
 
-📁 Folder: `Tic-Tac-Toe/`
+Beginner-friendly and well-structured code
 
----
+Includes screenshots of outputs for every project
 
-### 🧠 2. Quiz Application
-A basic quiz app designed to test frontend fundamentals.
+🛠️ Tech Stack
 
-**Features:**
-- 20 multiple-choice questions
-- Score calculation with percentage
-- Pass/Fail result logic
-- Scorecard displayed at the end
-- Motivational message based on result
-- Simple and clean UI
+HTML5
 
-**Pass Criteria:**
-- Below 15% → ❌ Fail  
-- 15% and above → ✅ Pass  
+CSS3
 
-**Technologies Used:**  
-HTML | CSS | JavaScript
+JavaScript (ES6)
 
-📁 Folder: `Quiz-App/`
-
----
-
-### 🌐 3. Responsive Landing Page
-A modern responsive landing page with a fixed navigation bar.
-
-**Features:**
-- Fixed navbar with color change on scroll
-- Smooth scrolling
-- Orange-themed modern UI
-- Fully responsive for mobile and desktop
-- Clean layout and typography
-
-**Technologies Used:**  
-HTML | CSS | JavaScript
-
-📁 Folder: `Responsive-Landing-Page/`
-
----
-
-## 🛠 Technologies Used Overall
-- HTML5
-- CSS3
-- JavaScript (ES6)
-
----
-
-## 🎯 Purpose
-- Practice frontend development concepts
-- Build UI-friendly and responsive websites
-- Improve JavaScript logic and DOM manipulation
-- Showcase projects in a single repository
-
----
-
-## 📌 How to Run Projects
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/Frontend-Projects-SkillCraft.git
-
-
-
+📂 Project Structure
 Frontend-Projects-SkillCraft/
 │
 ├── README.md
 │
-├── Tic-Tac-Toe/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-├── Quiz-App/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-├── Responsive-Landing-Page/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-│
-└── assets/
-    └── screenshots/   (optional)
+├── SCT/
+│   ├── SCT_WD_1 CALCULATOR WEB APPLICATION/
+│   ├── SCT_WD_2 STOPWATCH WEB APPLICATION/
+│   ├── SCT_WD_3 TICK TAC TOE WEB APPLICATION/
+│   ├── SCT_WD_4 TO DO WEB APP/
+│   └── SCT_WD_5 QUIZE GAME/
+
+📸 Project Outputs (Screenshots)
+🧮 1️⃣ Calculator Web Application
+
+📁 Folder: SCT/SCT_WD_1 CALCULATOR WEB APPLICATION/
+
+🔹 Screenshots
+
+
+
+
+
+
+Features:
+
+Simple calculator UI
+
+Supports basic arithmetic operations
+
+User-friendly layout
+
+Real-time result display
+
+Technologies Used:
+HTML | CSS | JavaScript
+
+⏱️ 2️⃣ Stopwatch Web Application
+
+📁 Folder: SCT/SCT_WD_2 STOPWATCH WEB APPLICATION/
+
+🔹 Screenshots
+
+
+
+
+
+
+
+
+Features:
+
+Start, stop and reset timer
+
+Pomodoro timer mode
+
+Short and long break modes
+
+Clean and modern UI
+
+Technologies Used:
+HTML | CSS | JavaScript
+
+❌⭕ 3️⃣ Tic Tac Toe Web Application
+
+📁 Folder: SCT/SCT_WD_3 TICK TAC TOE WEB APPLICATION/
+
+🔹 Screenshots
+
+
+
+
+Features:
+
+Two-player game (X vs O)
+
+Win and draw detection
+
+Reset game option
+
+Interactive UI
+
+Technologies Used:
+HTML | CSS | JavaScript
+
+📝 4️⃣ To Do Web Application
+
+📁 Folder: SCT/SCT_WD_4 TO DO WEB APP/
+
+🔹 Screenshots
+
+
+
+
+Features:
+
+Add and delete tasks
+
+Timestamp for tasks
+
+Simple task management system
+
+Clean UI
+
+Technologies Used:
+HTML | CSS | JavaScript
+
+🧠 5️⃣ Quiz Game Web Application
+
+📁 Folder: SCT/SCT_WD_5 QUIZE GAME/
+
+🔹 Screenshots
+
+
+
+
+Features:
+
+Multiple-choice questions
+
+Score calculation
+
+Result display
+
+Simple and engaging UI
+
+Technologies Used:
+HTML | CSS | JavaScript
+
+🎯 Purpose of the Repository
+
+Practice frontend development concepts
+
+Improve JavaScript logic and DOM manipulation
+
+Build responsive and user-friendly web applications
+
+Showcase multiple projects in one repository
+
+🚀 How to Run the Projects
+1️⃣ Clone the Repository
+git clone https://github.com/your-username/Frontend-Projects-SkillCraft.git
+
+2️⃣ Navigate to Any Project Folder
+cd Frontend-Projects-SkillCraft/SCT/SCT_WD_1\ CALCULATOR\ WEB\ APPLICATION
+
+3️⃣ Open index.html in Browser
+
+Simply double-click index.html or open it using Live Server in VS Code.
+
+🎓 Academic / Practice Projects
+
+These projects were created as part of SkillCraft Technology Frontend Development Tasks for learning and practice purposes.
