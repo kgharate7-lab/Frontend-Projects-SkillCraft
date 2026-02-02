@@ -66,14 +66,13 @@ HTML | CSS | JavaScript
 📁 Folder: SCT/SCT_WD_2 STOPWATCH WEB APPLICATION/
 
 🔹 Screenshots
+![Home Page](SCT/SCT_WD_2%20STOPWATCH%20WEB%20APPLICATION/screenshots_stopwatch/HomePage.png)
 
+![Pomodoro Mode](SCT/SCT_WD_2%20STOPWATCH%20WEB%20APPLICATION/screenshots_stopwatch/pomodoro.png)
 
+![Short Break](SCT/SCT_WD_2%20STOPWATCH%20WEB%20APPLICATION/screenshots_stopwatch/shortbreak.png)
 
-
-
-
-
-
+![Long Break](SCT/SCT_WD_2%20STOPWATCH%20WEB%20APPLICATION/screenshots_stopwatch/longbreak.png)
 Features:
 
 Start, stop and reset timer
@@ -92,9 +91,9 @@ HTML | CSS | JavaScript
 📁 Folder: SCT/SCT_WD_3 TICK TAC TOE WEB APPLICATION/
 
 🔹 Screenshots
+![Win Screen](SCT/SCT_WD_3%20TICK%20TAC%20TOE%20WEB%20APPLICATION/screenshots_tictactoe/win.png)
 
-
-
+![Draw Screen](SCT/SCT_WD_3%20TICK%20TAC%20TOE%20WEB%20APPLICATION/screenshots_tictactoe/draw.png)
 
 Features:
 
@@ -114,10 +113,9 @@ HTML | CSS | JavaScript
 📁 Folder: SCT/SCT_WD_4 TO DO WEB APP/
 
 🔹 Screenshots
+![Task Output](SCT/SCT_WD_4%20TO%20DO%20WEB%20APP/screenshots_todolist/output.png)
 
-
-
-
+![Timestamp Feature](SCT/SCT_WD_4%20TO%20DO%20WEB%20APP/screenshots_todolist/timestamp.png)
 Features:
 
 Add and delete tasks
@@ -136,9 +134,9 @@ HTML | CSS | JavaScript
 📁 Folder: SCT/SCT_WD_5 QUIZE GAME/
 
 🔹 Screenshots
+![Home Page](SCT/SCT_WD_5%20QUIZE%20GAME/screenshots_quizegames/HomePage.png)
 
-
-
+![Result Output](SCT/SCT_WD_5%20QUIZE%20GAME/screenshots_quizegames/output.png)
 
 Features:
 
