@@ -1,5 +1,3 @@
-.
-
 🚀 Frontend Projects – SkillCraft Technology
 
 This repository contains multiple frontend web development projects built using HTML, CSS, and JavaScript as part of tasks and practice for SkillCraft Technology.
@@ -44,11 +42,11 @@ Frontend-Projects-SkillCraft/
 📁 Folder: SCT/SCT_WD_1 CALCULATOR WEB APPLICATION/
 
 🔹 Screenshots
+![Home Page](SCT/SCT_WD_1%20CALCULATOR%20WEB%20APPLICATION/screenshots_calculator/HomePage.png)
 
+![Input Screen](SCT/SCT_WD_1%20CALCULATOR%20WEB%20APPLICATION/screenshots_calculator/input.png)
 
-
-
-
+![Output Screen](SCT/SCT_WD_1%20CALCULATOR%20WEB%20APPLICATION/screenshots_calculator/output.png)
 
 Features:
 
